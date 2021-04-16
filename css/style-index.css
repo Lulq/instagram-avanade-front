@@ -24,6 +24,7 @@ body {
 
 .usuario {
     display: flex;
+    align-items: center;
 
 }
 
@@ -42,8 +43,13 @@ body {
     margin: 10px;
 }
 
+.post-owner p {
+    /* margin-bottom: 0; */
+    
+}
+
 .post-owner .more-details {
-    padding: 5px;
+    padding: 7px;
 }
 
 .post {
