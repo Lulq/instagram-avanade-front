@@ -46,35 +46,4 @@ main {
     width: 100%;
     border: none;
 }
-.card {
-    
-    width: 60%;
-    background-color: rgb(246, 247, 241);
-    border: 1px solid #ccc;
-    justify-content: center;
-    margin-left: 20vh ; /*TODO */
-    
-    
-}
-
-.usuario {
-    display: flex;
-
-}
-
-.post-image img {
-    width: 100%;
-}
-
-.post-owner {
-    display: flex;
-    width:500px;
-    align-items: center;
-    justify-content: space-between;
-    
-}
-.post-owner img {
-    width: 10%;
-    margin: 10px;
-}
 
