@@ -43,13 +43,9 @@ body {
     margin: 10px;
 }
 
-.post-owner p {
-    /* margin-bottom: 0; */
-    
-}
-
 .post-owner .more-details {
     padding: 7px;
+    max-width: 50px;
 }
 
 .post {
@@ -62,6 +58,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.likes {
+    display:flex;
+    align-items: center;
+   
+}
+
+.likes strong {
+    padding-left: 10px;
 }
 
 .post-text p {
